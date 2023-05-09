@@ -1,0 +1,1 @@
+Para acessar o arquivo tecle enter.
