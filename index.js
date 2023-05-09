@@ -1,1 +1,4 @@
-console.log("Ola mundo! Meu nome é Miguel")
+
+let nome = "Miguel"
+
+console.log(`Meu nome é ${nome}`)
